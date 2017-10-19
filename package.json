@@ -1,8 +1,8 @@
 {
-	"name": "datime-local",
+	"name": "cosmoz-datetime-input",
 	"version": "1.0.0",
 	"description": "",
-	"main": "datime-local.html",
+	"main": "cosmoz-datetime-input.html",
 	"directories": {
 		"test": "test"
 	},
@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JaySunSyn/datime-local.git"
+		"url": "git+https://github.com/Neovici/cosmoz-datetime-input.git"
 	},
 	"keywords": [
 		"polymer",

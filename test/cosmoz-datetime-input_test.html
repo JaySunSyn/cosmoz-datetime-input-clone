@@ -21,10 +21,14 @@
 
     <script>
       suite('cosmoz-datetime-input', function () {
+      	var input;
 
-      	test('instantiating the element with default properties works', function () {
-      		var element = fixture('BasicTestFixture');
-      		assert.equal(element.is, 'cosmoz-datetime-input');
+      	setup(function () {
+      		input = fixture('BasicTestFixture');
+      	});
+
+      	test('instantiating the element works', function () {
+      		assert.equal(input.is, 'cosmoz-datetime-input');
       	});
       });
     </script>
