@@ -7,7 +7,7 @@
     "paper-input": "^2.0.2"
   },
   "devDependencies": {
-    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.2.5",
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24"
   },
@@ -18,7 +18,8 @@
       },
       "devDependencies": {
         "web-component-tester": "^4.0.0",
-        "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24"
+        "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24",
+        "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.2.5"
       },
       "resolutions": {
         "webcomponentsjs": "^0.7.24"
